@@ -20,8 +20,7 @@ The global limitations are pretty basic.
 <i>Vitis vinifera</i> grows globally between 30 and 50 degrees North and South 
 latitiude. These areas are roughly contiguous with temperature bands between 
 10 and 20C
-
-
+<br>
 <img src= ./images/30-50.jpg>
 
 
