@@ -20,9 +20,19 @@ The global limitations are pretty basic.
 <i>Vitis vinifera</i> grows globally between 30 and 50 degrees North and South 
 latitiude. These areas are roughly contiguous with temperature bands between 
 10 and 20C
-<br>
+
+<hr>
 <img src= ./images/30-50.jpg>
+<hr>
 
+This still leaves a lot of ground to cover. Satellite imagery is an obvious starting 
+point. A quick examination of several options leads to the realization that the level
+of detail needed will be quite high:
 
+<hr>
+<img src=.images/landsat.jpg>   <img src=./images/sentinel.jpg>   <img src=.images/naip.jpg>
+<i>These are images of the same area in Napa Valley California at differing resolutions: 
+Landsat, 30m, Sentinel 2a, 10m, and Planet Labs, ~3m per pixel.</i> 
+<hr>
 
 
