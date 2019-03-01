@@ -21,6 +21,8 @@ The global limitations are pretty basic.
 latitiude. These areas are roughly contiguous with temperature bands between 
 10 and 20C
 
+<img src= ../images/30-50.jpg>
+
 
 
 
