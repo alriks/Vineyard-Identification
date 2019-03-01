@@ -17,4 +17,10 @@ out and find it hidden within a hystack of agricultural production.
 Fortunately, most viticulture occurs in relatively restricted geographic areas. 
 The global limitations are pretty basic.
 
+<i>Vitis vinifera</i> grows globally between 30 and 50 degrees North and South 
+latitiude. These areas are roughly contiguous with temperature bands between 
+10 and 20C
+
+
+
 
