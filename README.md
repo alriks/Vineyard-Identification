@@ -30,9 +30,9 @@ point. A quick examination of several options leads to the realization that the 
 of detail needed will be quite high:
 
 <hr>
-<img src=.images/landsat.jpg>   <img src=./images/sentinel.jpg>   <img src=.images/naip.jpg>
+<img src=.images/scales.png>
 <i>These are images of the same area in Napa Valley California at differing resolutions: 
-Landsat, 30m, Sentinel 2a, 10m, and Planet Labs, ~3m per pixel.</i> 
+Landsat, 30m, Sentinel 2a, 10m, Planet Labs, ~3m, and the National Agriicultural Imagery Program, ~1m per pixel.</i> 
 <hr>
 
 
