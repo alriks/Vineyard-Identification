@@ -28,10 +28,19 @@ latitiude. These areas are roughly contiguous with temperature bands between
 This still leaves a lot of ground to cover. Satellite imagery is an obvious starting 
 point. A quick examination of several options leads to the realization that the level
 of detail needed will be quite high:
-
 <img src=./images/scales.png>
-<caption><i>These are images of the same area in Napa Valley California at differing resolutions: 
-Landsat, 30m, Sentinel 2a, 10m, Planet Labs, ~3m, and the National Agriicultural Imagery Program, ~1m per pixel.</i></caption> 
+<caption><i>These are images of the same area in Napa Valley California at differing 
+resolutions: Landsat, 30m, Sentinel 2a, 10m, Planet Labs, ~3m, and the National 
+Agricultural Imagery Program, ~1m per pixel.</i></caption> 
 
+In the Landsat scene, you can pick out towns and agricultural areas. Sentinel gives 
+you a better sense of the boundaries. The Planet imagery allows you to pick out individual 
+fields, but not to know what crops are growing in them. At the NAIP imagery's resolution, 
+you can see the specific detail that marks the grapes laid out in rows and blocks.
+
+The next sensible step would be to outline the actual grape fields themselves so that you 
+could have a better sense of the boundaries of the fields. Google's Earth Engine does an
+admirable job of this, but you have to essentially hand draw the boundaries in order for 
+them to accurately reflect field edges:
 
 
