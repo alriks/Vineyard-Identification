@@ -29,9 +29,10 @@ This still leaves a lot of ground to cover. Satellite imagery is an obvious star
 point. A quick examination of several options leads to the realization that the level
 of detail needed will be quite high:
 <img src=./images/scales.png>
-<caption><i>These are images of the same area in Napa Valley California at differing 
+
+<i>These are images of the same area in Napa Valley California at differing 
 resolutions: Landsat, 30m, Sentinel 2a, 10m, Planet Labs, ~3m, and the National 
-Agricultural Imagery Program, ~1m per pixel.</i></caption> 
+Agricultural Imagery Program, ~1m per pixel.</i>
 
 In the Landsat scene, you can pick out towns and agricultural areas. Sentinel gives 
 you a better sense of the boundaries. The Planet imagery allows you to pick out individual 
