@@ -29,10 +29,9 @@ This still leaves a lot of ground to cover. Satellite imagery is an obvious star
 point. A quick examination of several options leads to the realization that the level
 of detail needed will be quite high:
 
-<hr>
 <img src=./images/scales.png>
-<i>These are images of the same area in Napa Valley California at differing resolutions: 
-Landsat, 30m, Sentinel 2a, 10m, Planet Labs, ~3m, and the National Agriicultural Imagery Program, ~1m per pixel.</i> 
-<hr>
+<caption><i>These are images of the same area in Napa Valley California at differing resolutions: 
+Landsat, 30m, Sentinel 2a, 10m, Planet Labs, ~3m, and the National Agriicultural Imagery Program, ~1m per pixel.</i></caption> 
+
 
 
