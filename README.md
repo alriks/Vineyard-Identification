@@ -51,7 +51,7 @@ calculated on July 19, 2018. Imagery from the National Agricultural Imagery Prog
 ~1m per pixel.</i>
 
 But if we have the rough perimeters of the regions within which we might look for a
-specific pattern and we have plenty of imagery of vineyards from above, that miight be 
+specific pattern and we have plenty of imagery of vineyards from above, that might be 
 a perfect case for a deep learning network. Picking out repeated patterns from more 
 imagery than you might have time to look at yourself is a perfect job for a computer.
 
