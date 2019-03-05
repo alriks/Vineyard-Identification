@@ -44,6 +44,8 @@ could have a better sense of the boundaries of the fields. Google's Earth Engine
 admirable job of this, but you have to essentially hand draw the boundaries in order for 
 them to accurately reflect field edges:
 
-<img src=./images/yountville_ndvi_2016.JPG>
+<img src=./images/yountville_ndvi_2018.jpg>
 
-
+<i>This image shows NDVI values for all of the individual fields in the Yountville AVA 
+calculated on July 19, 2018. Imagery from the National Agricultural Imagery Program, 
+~1m per pixel.</i>
