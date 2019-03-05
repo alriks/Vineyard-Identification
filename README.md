@@ -49,3 +49,19 @@ them to accurately reflect field edges:
 <i>This image shows NDVI values for all of the individual fields in the Yountville AVA 
 calculated on July 19, 2018. Imagery from the National Agricultural Imagery Program, 
 ~1m per pixel.</i>
+
+But if we have the rough perimeters of the regions within which we might look for a
+specific pattern and we have plenty of imagery of vineyards from above, that miight be 
+a perfect case for a deep learning network. Picking out repeated patterns from more 
+imagery than you might have time to look at yourself is a perfect job for a computer.
+
+So I started using a library from Fastai to look at imagery of California with the hope 
+of outlining all of the vineyard fields in the AVAs in the state at 1m/pixel scale.
+
+The workflow is:
+1. gather training data for the model
+2. train up a deep learning network and measure the accuracy of its output
+3. teach it to recognize vineyards within aerial imagery
+4. outline and label the individual fields
+
+
