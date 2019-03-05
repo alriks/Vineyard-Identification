@@ -44,6 +44,6 @@ could have a better sense of the boundaries of the fields. Google's Earth Engine
 admirable job of this, but you have to essentially hand draw the boundaries in order for 
 them to accurately reflect field edges:
 
-<img src=./images/yountville_ndvi_2016.JPG/>
+<img src=./images/yountville_ndvi_2016.JPG>
 
 
