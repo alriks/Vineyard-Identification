@@ -21,9 +21,7 @@ The global limitations are pretty basic.
 latitiude. These areas are roughly contiguous with temperature bands between 
 10 and 20C
 
-<hr>
 <img src= ./images/30-50.jpg>
-<hr>
 
 This still leaves a lot of ground to cover. Satellite imagery is an obvious starting 
 point. A quick examination of several options leads to the realization that the level
@@ -75,6 +73,10 @@ from the University of California, Merced. The dataset contains 2100 images manu
 extracted from larger images in the USGS National Map Urban Area Imagery collection 
 for various urban areas around the country. The pixel resolution of this public domain 
 imagery is 1 foot. The dataset can be found <a href="http://weegee.vision.ucmerced.edu/datasets/landuse.html">here</a>.
+
+Examples of the categories can be seen in this image:
+
+<img src= ./images/inputs.JPG>
 
 
 
