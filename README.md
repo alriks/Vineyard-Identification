@@ -64,4 +64,17 @@ The workflow is:
 3. teach it to recognize vineyards within aerial imagery
 4. outline and label the individual fields
 
+For the training data to be useful it has to show both the vineyards we're interested
+in and other types of landscape features that might show up in the imagery we will be 
+using for the testing phase. I downloaded two images for final testing, one of the 
+Napa Valley around Yountville and one of the area around the village of Mersault in 
+Burgundy.
+
+In order to provide training data for these two areas I used a previously built dataset
+from the University of California, Merced. The dataset contains 2100 images manually 
+extracted from larger images in the USGS National Map Urban Area Imagery collection 
+for various urban areas around the country. The pixel resolution of this public domain 
+imagery is 1 foot. The dataset can be found <a href="http://weegee.vision.ucmerced.edu/datasets/landuse.html">here</a>.
+
+
 
